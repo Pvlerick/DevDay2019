@@ -1,0 +1,1 @@
+docker run -d --net nat -p 8080:8080 --hostname duke --name duke dqi
